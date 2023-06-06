@@ -1,0 +1,18 @@
+body {
+  background: linear-gradient(90deg, #2c2627 0%, #196b55 100%)
+}
+
+.container {
+  max-width: 960px;
+}
+
+.pricing-header {
+  max-width: 700px;
+}
+a,p,h2,label,span,h5{
+  color: antiquewhite;
+}
+
+#correo,#nombre,#apellido,#cant,#inputState,#categoria{
+  background-color:antiquewhite;
+}
